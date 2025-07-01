@@ -511,5 +511,3 @@ Before you begin, ensure you have the following prerequisites installed:
       
 <hr>
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-<p align="right">(<a href="#top">back to top</a>)</p>
